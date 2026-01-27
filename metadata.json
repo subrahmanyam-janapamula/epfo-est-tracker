@@ -1,0 +1,5 @@
+{
+  "name": "EPFO Tracker",
+  "description": "A comprehensive calculator to track Employee Provident Fund (EPF) growth, calculate estimated yearly interest based on monthly balances, contributions, and withdrawals.",
+  "requestFramePermissions": []
+}
